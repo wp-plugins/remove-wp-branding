@@ -41,6 +41,8 @@ No. There are checkboxes to turn features on and off. For instance, if you would
 3. The screenshot description corresponds to screenshot-3.(png|jpg|jpeg|gif).
 
 == Changelog ==
+= 1.0.1 =
+Added some screenshots
 = 1.0 =
 * Initial release. We will be upgrading periodically for security and functionality improvements.
 
