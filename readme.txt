@@ -1,6 +1,6 @@
 === Remove WP Branding ===
 Contributors: workshopmg, michaelgreeby, jeremygradisher
-Tags: remove branding, custom branding, work.shop, workshop
+Tags: remove branding, custom branding, change login logo, add dashboard widget
 Donate link: http://workshop-mg.com/
 Requires at least: 3.5
 Tested up to: 4.1.1
@@ -36,11 +36,13 @@ No. There are checkboxes to turn features on and off. For instance, if you would
 
 
 == Screenshots ==
-1. The screenshot description corresponds to screenshot-1.(png|jpg|jpeg|gif).
-2. The screenshot description corresponds to screenshot-2.(png|jpg|jpeg|gif).
-3. The screenshot description corresponds to screenshot-3.(png|jpg|jpeg|gif).
+1. Standard WordPress logo and branding changes. Hide logos and change the linking.
+2. Adjustments for the login page. Change the login logo. The link is auto change to your main domain.
+3. Adjustments for the dashboard widgets. Add your own if you would like.
 
 == Changelog ==
+= 1.0.2 =
+Added icon, and header photo. Adjusted some wording in the readme.txt, adjusted the URI link in the main file.
 = 1.0.1 =
 Added some screenshots
 = 1.0 =

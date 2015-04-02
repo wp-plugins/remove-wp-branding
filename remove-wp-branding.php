@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Remove WP Branding
-Plugin URI: http://workshop-mg.com/remove-wordpress-branding/
+Plugin URI: http://workshop-mg.com/remove-wp-branding/
 Description: Replace and Remove the WordPress branding from the login page and the admin dashboard. Replace existing logos and text with your own. You may also add two new widgets within the dashboard.
-Version: 1.0.1
+Version: 1.0.2
 Author: work.shop
 Author URI: http://workshop-mg.com/
 License: GPLv2 or later
