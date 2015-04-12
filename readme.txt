@@ -41,6 +41,8 @@ No. There are checkboxes to turn features on and off. For instance, if you would
 3. Adjustments for the dashboard widgets. Add your own if you would like.
 
 == Changelog ==
+= 1.0.3 =
+Attempting to fix icon image not showing correctly in assets (Showing blank on the plugin page). Adjusted some wording in the readme.txt.
 = 1.0.2 =
 Added icon, and header photo. Adjusted some wording in the readme.txt, adjusted the URI link in the main file.
 = 1.0.1 =
